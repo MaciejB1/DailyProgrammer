@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ducci Sequence", "The Ducci Sequence\The Ducci Sequence.csproj", "{E390F775-8F38-4387-9085-C45E5F3A366D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E390F775-8F38-4387-9085-C45E5F3A366D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E390F775-8F38-4387-9085-C45E5F3A366D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E390F775-8F38-4387-9085-C45E5F3A366D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E390F775-8F38-4387-9085-C45E5F3A366D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C07272-94E1-43B1-B267-3A15F701D795}
+	EndGlobalSection
+EndGlobal

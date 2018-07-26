@@ -4,3 +4,4 @@ venv
 Sales Commissions.csproj
 bin
 obj
+*.csproj
